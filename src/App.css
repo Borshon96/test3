@@ -1,0 +1,9 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  text-align: start;
+  padding: 10px;
+  height: 100vh;
+  width: 80vw;
+}
